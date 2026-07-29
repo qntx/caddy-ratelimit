@@ -75,3 +75,15 @@ This project is licensed under either of the following licenses, at your option:
 - MIT license ([LICENSE-MIT](LICENSE-MIT) or [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT))
 
 Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in this project by you, as defined in the Apache-2.0 license, shall be dually licensed as above, without any additional terms or conditions.
+
+---
+
+<div align="center">
+
+A **[QuantX](https://qntx.fun)** open-source project.
+
+<a href="https://qntx.fun"><img alt="QuantX" width="369" src="https://raw.githubusercontent.com/qntx/.github/main/profile/qntx.svg" /></a>
+
+Code is law. We write both.
+
+</div>
